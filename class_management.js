@@ -21,14 +21,14 @@ res.send(`
             border:10px solid hsl(213.05deg 69.21% 42.2%);
             border-radius: 10px;
             padding: 20px;
-            max-width:70%;
+            max-width:60rem;
             margin: 0 auto;
             box-shadow:0 0 12px #000000bf;
         }
         h1 {
             color:rgb(88 133 218);
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-            font-size: 800%;
+            font-size:4rem;
             margin-bottom:20px;
             filter: drop-shadow(2px 4px 0.1px black);
         }
